@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, GSAP, and exploring Data Science through Python toolkits, Web3 and DSA**
 
-- 💬 Ask me about **Web development,Web3,Data Science,DSA**
+- 💬 Ask me about **Web development, Web3, Data Science, DSA**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/adarsh-kathriya-555750274/?originalSubdomain=in)**
 
